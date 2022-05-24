@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BritoAlv
-- 👀 I’m interested in ... Computer Science
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... gomzalezbritoalvaro@gmail.com
+- 👀 I’m interested in Computer Science 
+- 🌱 I’m currently learning TF-IDF
+- 💞️ I’m looking to collaborate on Julia.
+- - 📫 How to reach me gomzalezbritoalvaro@gmail.com @BritoAlv Telegram
