@@ -12,6 +12,7 @@ Español{
 - 🌱 Actualmente estoy aprendiendo ....
 - 💞️ Sería bueno algún proyecto sobre Manim.
 - 📫 Contactarme por gomzalezbritoalvaro@gmail.com 
+}
 
 Русский{
 - 👋 Привет, я БритоАльв.
