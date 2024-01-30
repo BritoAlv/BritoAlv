@@ -21,3 +21,11 @@ Español{
 - 💞️ Заинтересованы в проектах о Manim.
 - 📫 Mой контакт gomzalezbritoalvaro@gmail.com 
 }
+
+Français{
+- 👋 Salut, Je suis @BritoAlv.
+- 👀 Je suis interresé dans les scinces de la computation.
+- 🌱 Actuellement je suis en train d'apprendre Manim.
+- 💞️ Il serais bon un projet sur Manim.
+- 📫 Tu peux me contacter pour gomzalezbritoalvaro@gmail.com.
+}
